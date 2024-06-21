@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T11:48:05.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.0" etag="VOEwibFDcrYZqaE0P9_m" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T18:42:56.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZFiLm9sxVuoXr--ETZ36" version="24.6.0" type="github">
   <diagram name="Page-1" id="qpr0WWEVWrJDgcL1kmon">
-    <mxGraphModel>
+    <mxGraphModel dx="1105" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6PoY5TUMm6coMZj7E8jW-6" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6PoY5TUMm6coMZj7E8jW-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;HEALTHDUCATE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="318" y="30" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6PoY5TUMm6coMZj7E8jW-12" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6PoY5TUMm6coMZj7E8jW-13" value="Dinas Kesehatan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="690" width="80" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
